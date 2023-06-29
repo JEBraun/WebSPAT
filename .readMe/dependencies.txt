@@ -1,0 +1,65 @@
+SPAT Python Module Dependencies:
+
+	Built In:
+		csv
+		ctypes 
+		csv
+		ctypes 
+		datetime 
+		ftplib
+		itertools
+		json
+		math
+		os
+		re
+		shutil
+		sys
+		threading
+		time
+		tkinter
+		urllib
+		webbrowser
+		
+	Third Party:
+		beautifulsoup4
+			pip install beautifulsoup4
+		cv2, 
+			pip install opencv-python
+		functools
+			pip install functools
+		matplotlib
+			pip install matplotlib
+		mpl_toolkits
+			pip install matplotlib
+		noaa_coops
+			pip install noaa-coops 
+		numpy
+			pip install numpy
+		opencv
+			pip install opencv-python
+		pandas
+			pip install pandas
+		pathlib
+			pip install pathlib
+		PIL
+			pip install Pillow
+		pytz
+			pip install pytz
+		requests
+			pip install requests
+		scipy
+			pip install scipy
+		skimage
+			pip install scikit-image
+		statsmodels
+			pip install statsmodels
+		termcolor
+			pip install termcolor	
+		tkcalendar
+			pip install tkcalendar
+		tqdm
+			pip install tqdm	
+		wget
+			pip install wget
+		win32api
+			pip install pywin32
